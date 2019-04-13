@@ -20,7 +20,7 @@ Without loss of generality, the first player is Red.
 
 To play the game:
 Run 'Hexapawn.py' and type 'n' when asked prompted to
-solve for a winnner, then select either 'r'ed or 'b'lue
+solve for a winner, then select either 'r'ed or 'b'lue
 to begin playing.
 
 The rules of the game are simple; as the name suggests, 
